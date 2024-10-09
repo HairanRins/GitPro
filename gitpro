@@ -1,0 +1,8 @@
+Commandes Git couramment utilisées en Production et en Équipe : 
+
+    - git clone : Pour commencer à travailler sur un dépôt.
+    - git branch et git checkout : Pour gérer et basculer entre les branches.
+    - git pull et git push : Pour synchroniser les modifications avec le dépôt distant.
+    - git merge et git rebase : Pour intégrer les modifications entre branches.
+    - git stash : Pour sauvegarder et restaurer temporairement les changements en cours.
+    - git tag : Pour marquer des versions spécifiques en production.
